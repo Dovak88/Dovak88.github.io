@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>My Portfolio</description>
-	<lastBuildDate>Sun, 03 Jul 2022 04:00:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jul 2022 12:14:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -466,11 +466,11 @@ fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">/?p=836</guid>
 
-					<description><![CDATA[• BET&#8217;n&#8217;DIE Online PC game 4 Players FFA Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non [&#8230;]]]></description>
+					<description><![CDATA[• Eterlou 2D Platformer game Eterlou is a platformer game made by a team of Isart’s students. We had a month to make a 2D-platfomer game from start to finish. In this project I did the sound design, music composition and FMOD integration. I took an extra step and worked closely with the developers by [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="836" class="elementor elementor-836" data-elementor-settings="[]">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section class="elementor-element elementor-element-73371fc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="73371fc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:9.6,&quot;sizes&quot;:[]},&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:830,&quot;url&quot;:&quot;\/wp-content\/uploads\/2022\/07\/bbbbbnnnddd.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+							<section class="elementor-element elementor-element-73371fc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="73371fc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:9.6,&quot;sizes&quot;:[]},&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:385,&quot;url&quot;:&quot;\/wp-content\/uploads\/2021\/05\/platformer-splash-art-v3-no-title-scaled.jpg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
@@ -491,30 +491,94 @@ fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-ce693f6 elementor-widget elementor-widget-heading" data-id="ce693f6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">• BET'n'DIE</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">• Eterlou</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-14d77e1 elementor-widget elementor-widget-text-editor" data-id="14d77e1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Online PC game </p><p>4 Players FFA</p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p>2D Platformer game</p></div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-02917ef elementor-widget elementor-widget-text-editor" data-id="02917ef" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span lang="la"><span>Lorem ipsum 
-dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse 
-lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
- Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper 
-congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, 
-enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis 
-semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, 
-enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. 
-Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent 
-blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
- cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque 
-fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
-<p><br></p></span></span></p></div>
+					<div class="elementor-text-editor elementor-clearfix"><div class="uk-panel uk-text-large uk-text-emphasis uk-margin uk-text-justify" data-id="page#0-0-1-2">
+<p>Eterlou is a platformer game made by a team of Isart’s students.</p>
+<p>We had a month to make a 2D-platfomer game from start to finish. In this project I did the sound design, music composition and FMOD integration. I took an extra step and worked closely with the developers by handling the audio integration in unity myself. In order to achieve that I made an audio manager and some other audio related scripts  in c#. This allowed the developers to focus more on physics and graphic integration.</p>
+</div>
+<p> </p></div>
 				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e02b49 elementor-widget elementor-widget-text-editor" data-id="1e02b49" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Related Documents :</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e5be563 elementor-widget elementor-widget-button" data-id="e5be563" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://drive.google.com/file/d/1_Uy0x_Ft9-SMpbrj4lyoLucNfFOxgenp/view?usp=sharing" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-download"></i>			</span>
+						<span class="elementor-button-text">Sound Design Document</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0f1f2c elementor-widget elementor-widget-button" data-id="c0f1f2c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://drive.google.com/file/d/1h_KrOgJUyI4ps7_a7ZsNdiKvRYLP5f_7/view?usp=sharing" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-download"></i>			</span>
+						<span class="elementor-button-text">One Page Concept</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9df8793 elementor-widget elementor-widget-button" data-id="9df8793" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://drive.google.com/drive/folders/1v15P1OHwQiO4M_dTGglVHacvNbgrykmP?usp=sharing" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-download"></i>			</span>
+						<span class="elementor-button-text">Build</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5a6e03f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5a6e03f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b7e9cb4 elementor-column elementor-col-100 elementor-top-column" data-id="b7e9cb4" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6063de7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6063de7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-42a74a7 elementor-column elementor-col-100 elementor-top-column" data-id="42a74a7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2923963 elementor-widget elementor-widget-html" data-id="2923963" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe loading="lazy" width="100%" height="400
+" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1377371323&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/matteo-siscaro" title="Mattéo Siscaro" target="_blank" style="color: #cccccc; text-decoration: none;">Mattéo Siscaro</a> · <a href="https://soundcloud.com/matteo-siscaro/sets/eterlou" title="Eterlou" target="_blank" style="color: #cccccc; text-decoration: none;">Eterlou</a></div>		</div>
 				</div>
 						</div>
 			</div>
