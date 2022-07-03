@@ -1,0 +1,39 @@
+/* WordPress Theme 2015 Metadata Removal */
+.entry-footer {
+display:none !important;
+}
+
+/* WordPress Theme 2015 Metadata Removal */
+.home .entry-footer { 
+display: none; 
+}
+
+/* Remove meta from post */
+.entry-meta {
+display:none !important;
+}
+
+/* Remove meta from home page */
+.home .entry-meta { 
+display: none !important; 
+}
+
+/* Remove meta from 2021 theme */
+.entry-footer .default-max-width { 
+display: none !important; 
+}
+
+/* Remove meta from 2019 theme */
+.post-meta-wrapper .post-meta-single .post-meta-single-top { 
+display: none !important; 
+}
+
+.post-meta-wrapper {
+    margin-top: 0px !important;
+}
+
+/* Remove meta from 2019 theme */
+.post-meta { 
+display: none !important; 
+}
+
