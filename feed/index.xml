@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>My Portfolio</description>
-	<lastBuildDate>Mon, 04 Jul 2022 03:13:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Jul 2022 04:20:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,7 +37,7 @@
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="782" class="elementor elementor-782" data-elementor-settings="[]">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section class="elementor-element elementor-element-73371fc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="73371fc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:9.6,&quot;sizes&quot;:[]},&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:830,&quot;url&quot;:&quot;\/wp-content\/uploads\/2022\/07\/bbbbbnnnddd-e1656903936682.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+							<section class="elementor-element elementor-element-73371fc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="73371fc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
@@ -293,7 +293,7 @@
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="836" class="elementor elementor-836" data-elementor-settings="[]">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section class="elementor-element elementor-element-73371fc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="73371fc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:9.6,&quot;sizes&quot;:[]},&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:385,&quot;url&quot;:&quot;\/wp-content\/uploads\/2021\/05\/platformer-splash-art-v3-no-title-scaled.jpg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+							<section class="elementor-element elementor-element-73371fc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="73371fc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
