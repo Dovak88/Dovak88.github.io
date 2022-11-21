@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Commentaires pour Siscaro Portfolio	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	Commentaires sur : Bonjour tout le monde !	</title>
+	<atom:link href="/2022/11/07/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>/2022/11/07/bonjour-tout-le-monde/</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Nov 2022 02:29:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Commentaires sur Bonjour tout le monde ! par Un commentateur ou commentatrice WordPress		</title>
+		Par : Un commentateur ou commentatrice WordPress		</title>
 		<link>/2022/11/07/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur ou commentatrice WordPress]]></dc:creator>
