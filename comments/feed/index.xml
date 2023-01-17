@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Matteo Siscaro	</title>
+	Commentaires pour Siscaro Portfolio	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>My Portfolio</description>
-	<lastBuildDate>Mon, 04 Jul 2022 04:54:55 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 17 Jan 2023 17:40:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>
