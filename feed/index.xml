@@ -10,9 +10,9 @@
 <channel>
 	<title>Siscaro Portfolio</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 13 Feb 2023 15:44:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Feb 2023 01:52:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
